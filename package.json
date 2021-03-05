@@ -1,0 +1,22 @@
+{
+  "name": "cypressinit",
+  "version": "1.0.0",
+  "description": "Curso Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasmanys88/CypressInit.git"
+  },
+  "author": "Yasmany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasmanys88/CypressInit/issues"
+  },
+  "homepage": "https://github.com/yasmanys88/CypressInit#readme",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
